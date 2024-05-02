@@ -21,7 +21,6 @@
     "start:watch": "nodemon dist/index.js"
   },
   "dependencies": {
-    "@xmtp/botkit": "latest",
     "@xmtp/grpc-api-client": "^0.2.7",
     "@xmtp/xmtp-js": "^11.6.0"
   },
