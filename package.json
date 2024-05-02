@@ -22,7 +22,8 @@
   },
   "dependencies": {
     "@xmtp/grpc-api-client": "^0.2.7",
-    "@xmtp/xmtp-js": "^11.6.0"
+    "@xmtp/xmtp-js": "^11.6.0",
+    "ethers": "^6.12.1"
   },
   "devDependencies": {
     "@types/node": "^20.12.7",
