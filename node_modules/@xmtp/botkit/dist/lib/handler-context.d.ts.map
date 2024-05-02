@@ -1,0 +1,1 @@
+{"version":3,"file":"handler-context.d.ts","sourceRoot":"","sources":["../../src/lib/handler-context.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,EAAE,MAAM,eAAe,CAAC;AAE/C,MAAM,CAAC,OAAO,OAAO,cAAc;IACjC,OAAO,EAAE,cAAc,CAAC;gBAEZ,OAAO,EAAE,cAAc;IAI7B,KAAK,CAAC,OAAO,EAAE,GAAG;CAGzB"}
